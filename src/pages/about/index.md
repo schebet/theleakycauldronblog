@@ -1,14 +1,14 @@
 ---
 templateKey: about-page
-image: /img/vaibhav_sharma_cine.jpg
+image: /img/24.jpg
 title: About This Blog
 subtitle: A brew of awesomeness with a pinch of magic...
 author: The Leaky Cauldron Blog
 slug: about
 metaTitle: About | The Leaky Cauldron Blog
-metaDescription: The Leaky Cauldron Blog is the personal blog of Vaibhav
-  Sharma. Topics include coding, movies, music, books, dinosaurs or anything
-  under the sun and beyond.
+metaDescription: The Leaky Cauldron Blog is the personal blog of Vaibhav Sharma.
+  Topics include coding, movies, music, books, dinosaurs or anything under the
+  sun and beyond.
 ---
 **The Leaky Cauldron Blog** is the personal blog of **Vaibhav Sharma**.
 
