@@ -59,13 +59,7 @@ const HomePage = (props) => {
         <script type="application/ld+json">
           {JSON.stringify(websiteSchemaOrgJSONLD)}
         </script>
-        <script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+      
 
         {/* Open Graph Tags */}
         <meta property="og:url" content={`${config.siteUrl}/contact`} />
