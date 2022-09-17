@@ -5,7 +5,7 @@ const config = {
   siteUrl: `https://gatsby-caulderon.netlify.app/`, // Domain of your website without pathPrefix.
   pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
   siteDescription: `The Leaky Cauldron Blog is the personal blog of Vaibhav Sharma. A Brew of Awesomeness with a Pinch of Magic...`, // Website description used for RSS feeds/meta description tag.
-  siteRss: `/rss.xml`,
+  siteRss: `https://gatsby-caulderon.netlify.app/rss.xml`,
   googleTagManagerID: process.env.GTM_ID || ``, // GTM tracking ID.
   userName: `Vaibhav Sharma`,
   coffeeLink: `https://www.buymeacoffee.com/vaibhavsharma`,
