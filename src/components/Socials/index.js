@@ -6,7 +6,7 @@ const Socials = (props) => {
   return (
     <div className="db dtc-ns black-70 tc tr-ns v-mid">
       <a
-        href={`feed:https://gatsby-caulderon.netlify.app/${siteRss}`}
+        href={`https://gatsby-caulderon.netlify.app/${siteRss}`}
         className="link hover-orange dib mr3 black-70"
         title="The Leaky Cauldron Blog RSS Feed"
         target="_blank"
