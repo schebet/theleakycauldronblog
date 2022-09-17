@@ -11,4 +11,6 @@ metaDescription: šebet
 tags:
   - šebet
 ---
+![](/img/šebet-moj.jpg)
+
 šebet
