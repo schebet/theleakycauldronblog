@@ -20,13 +20,7 @@ const Header = (props) => {
         >
           Home
         </Link>
-
-        <Link
-          className="f6 f5-l link bg-animate black-80 hover-bg-light-pink dib pa3 ph4-l"
-          to="/search"
-        >
-          Search
-        </Link>
+ 
 
         <Link
           className="f6 f5-l link bg-animate black-80 hover-bg-light-green dib pa3 ph4-l"
