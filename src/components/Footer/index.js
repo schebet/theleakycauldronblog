@@ -25,7 +25,7 @@ const Footer = (props) => {
             {copyright} Powered by{' '}
             <a
               className="link black hover-purple"
-              href="https://www.gatsbyjs.com"
+              href="https://gatsby-caulderon.netlify.app/"
               target="_blank"
               rel="noreferrer nofollow noopener"
             >
@@ -42,7 +42,7 @@ const Footer = (props) => {
           {copyright} Powered by{' '}
           <a
             className="link black hover-purple"
-            href="https://www.gatsbyjs.com"
+            href="https://gatsby-caulderon.netlify.app/"
             target="_blank"
             rel="noreferrer nofollow noopener"
           >
