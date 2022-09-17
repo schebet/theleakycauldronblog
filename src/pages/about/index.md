@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-image: /img/77.jpg
+image: /img/24.jpg
 title: About This Blog
 subtitle: A brew of awesomeness with a pinch of magic...
 author: The Leaky Cauldron Blog
