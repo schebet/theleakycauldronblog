@@ -2,8 +2,16 @@
 templateKey: about-page
 image: /img/24.jpg
 title: About This Blog
-subtitle: A brew of awesomeness with a pinch of magic...
-author: The Leaky Cauldron Blog
+subtitle: A brew of awesomeness with a pinch of magic...Being a travel
+  enthusiast, I really want this blog to be a place where you can get to know
+  about the lesser known mysteries and stories of the world. I would like to
+  believe that I have established that I have varied interests, so I will also
+  sporadically post movie, music and event reviews as well.  Occasionally, this
+  blog will feature [guest
+  authors](https://theleakycauldronblog.com/tags/guest-author) who will write
+  about what they truly love. I hope to bring to light various unique world
+  views to really live up to my blog's name.
+author: The Leaky Cauldron Blog-autor
 slug: about
 metaTitle: About | The Leaky Cauldron Blog
 metaDescription: The Leaky Cauldron Blog is the personal blog of Vaibhav Sharma.
