@@ -9,11 +9,11 @@ const SubscribedPage = () => (
       htmlAttributes={{
         lang: `en`,
       }}
-      title="Subscribed | The Leaky Cauldron Blog"
+      title="Prijava | Moje Zaplanje"
       meta={[
         {
-          name: `description`,
-          content: `You're now subscribed to the The Leaky Cauldron Blog NewsLetter!`,
+          name: `opis`,
+          content: `Prijavljeni ste da primate najnovije objave!`,
         },
         {
           name: `viewport`,
