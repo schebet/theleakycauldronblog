@@ -1,15 +1,15 @@
 const config = {
-  siteTitle: `The Leaky +++Cauldron Blog`, // Site title.
-  siteTitleAlt: `TLC Blog`, // Alternative site title for SEO.
+  siteTitle: `Moje Zaplanje`, // Site title.
+  siteTitleAlt: ` Blog`, // Alternative site title for SEO.
   siteLogo: `/icons/icon-512x512.png`, // Logo used for SEO and manifest.
-  siteUrl: `https://gatsby-caulderon.netlify.app/`, // Domain of your website without pathPrefix.
+  siteUrl: `https://mojezaplanje.netlify.app/`, // Domain of your website without pathPrefix.
   pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
-  siteDescription: `The Leaky Cauldron Blog is the personal blog of Vaibhav Sharma. A Brew of Awesomeness with a Pinch of Magic...`, // Website description used for RSS feeds/meta description tag.
+  siteDescription: `The Leaky Cauldron Blog ...`, // Website description used for RSS feeds/meta description tag.
   siteRss: `/rss.xml`,
   googleTagManagerID: process.env.GTM_ID || ``, // GTM tracking ID.
-  userName: `Vaibhav Sharma`,
+  userName: `Zaplanje`,
   coffeeLink: `https://www.buymeacoffee.com/vaibhavsharma`,
-  userTwitter: `aleakycauldron`,
+  userTwitter: `schebet`,
   siteFBAppID: ``,
   userLocation: `Delhi NCR, India`,
   copyright: `Copyright © The Leaky Cauldron Blog 2018-${new Date()
